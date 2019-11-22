@@ -1,0 +1,7 @@
+
+ 
+class Detail extends Staleless {
+  
+
+}
+  
